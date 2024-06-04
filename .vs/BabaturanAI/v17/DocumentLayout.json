@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dekstop Tugas\\github\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|e:\\dekstop tugas\\github\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|e:\\dekstop tugas\\github\\mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|solutionrelative:mainform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|e:\\dekstop tugas\\github\\applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|solutionrelative:applicationevents.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|e:\\dekstop tugas\\github\\mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{03CD8DF1-7D6B-4416-9881-23F4DDB77490}|MainForm.vbproj|solutionrelative:mainform.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.vb",
+              "DocumentMoniker": "E:\\Dekstop Tugas\\github\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "E:\\Dekstop Tugas\\github\\MainForm.vb",
+              "RelativeToolTip": "MainForm.vb",
+              "ViewState": "AQIAAIEBAAAAAAAAAAAAAAQCAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-04T00:44:23.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationEvents.vb",
+              "DocumentMoniker": "E:\\Dekstop Tugas\\github\\ApplicationEvents.vb",
+              "RelativeDocumentMoniker": "ApplicationEvents.vb",
+              "ToolTip": "E:\\Dekstop Tugas\\github\\ApplicationEvents.vb",
+              "RelativeToolTip": "ApplicationEvents.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-04T00:44:03.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.Designer.vb",
+              "DocumentMoniker": "E:\\Dekstop Tugas\\github\\MainForm.Designer.vb",
+              "RelativeDocumentMoniker": "MainForm.Designer.vb",
+              "ToolTip": "E:\\Dekstop Tugas\\github\\MainForm.Designer.vb",
+              "RelativeToolTip": "MainForm.Designer.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-04T00:43:59.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.vb [Design]",
+              "DocumentMoniker": "E:\\Dekstop Tugas\\github\\MainForm.vb",
+              "RelativeDocumentMoniker": "MainForm.vb",
+              "ToolTip": "E:\\Dekstop Tugas\\github\\MainForm.vb [Design]",
+              "RelativeToolTip": "MainForm.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-04T00:43:56.942Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
