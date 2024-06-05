@@ -21,6 +21,8 @@ An AI-powered chat application built with Visual Basic featuring user authentica
    ```sh
    Install-Package MySql.Data
    Install-Package Newtonsoft.Json
+   Install-Package Guna.UI2.WinForms
+   Install-Package System.Speech
    ```
 
 4. **Set up the database**
