@@ -50,8 +50,3 @@ An AI-powered chat application built with Visual Basic featuring user authentica
 ## License
 
 [MIT](https://github.com/911whatsuremergency/VBChatBotAI/blob/main/LICENSE)
-
-
-## Documentation
-
-[Documentation](https://www.youtube.com/watch?v=5HNyJ5NREZ4)
